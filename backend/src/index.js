@@ -12,4 +12,4 @@ mongoose.connect('mongodb+srv://mauricio:mauricio@cluster0-qaada.mongodb.net/wee
 app.use(express.json());
 app.use(routes);
 
-app.listen(3001);
+app.listen(3330);
